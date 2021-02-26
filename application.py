@@ -5,17 +5,7 @@
 #
 # Author:       Alwin Tareen
 # Created:      Feb 24, 2021
-#
-# Venv setup:       python3 -m venv venv
-# Venv activation:  source venv/bin/activate
-#
-# Check if flask is installed:  python -m flask --version
-# If flask is not installed:    pip install -r requirements.txt
-#
-# Set variable: export FLASK_APP="application.py"
-# Set variable: export DATABASE_URL="postgres://envdqjbnnqrvwn:ca3a1e25264cccfd7a98687ebf2cd239ef626b0b570242d63834210eca348945@ec2-3-209-176-42.compute-1.amazonaws.com:5432/d2hqacih9bfacd"
 # Execution:    flask run
-# Conclusion:   deactivate
 #
 # This program implements a course registration system for a school.
 #
