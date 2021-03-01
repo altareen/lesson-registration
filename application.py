@@ -7,6 +7,9 @@
 # Created:      Feb 24, 2021
 # Execution:    flask run
 #
+# Video Demo:   https://www.youtube.com/watch?v=Yaxqnq3_OKg
+# Heroku URL:   https://lesson-registration.herokuapp.com
+#
 # This program implements a course registration system for a school.
 #
 ##
